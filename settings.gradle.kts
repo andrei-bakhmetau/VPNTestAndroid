@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "VPNTestAndroid"
 include(":app")
- 
+include(":domain")
+include(":data")
